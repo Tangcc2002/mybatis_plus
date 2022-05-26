@@ -26,6 +26,7 @@ public class UserController {
 
     @GetMapping("/user")
     public List<User> getAllUser() {
+        System.out.println(123);
         return service.list();
     }
 }
