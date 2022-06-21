@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f913e9-73ea-438c-b1ed-ff45132827a5" name="Changes" comment="" />
+    <list default="true" id="21f913e9-73ea-438c-b1ed-ff45132827a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mybatisplus/MybatisPlusApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mybatisplus/MybatisPlusApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
         <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -108,6 +113,8 @@
       <workItem from="1652943953193" duration="488000" />
       <workItem from="1653384221236" duration="2538000" />
       <workItem from="1653394284014" duration="567000" />
+      <workItem from="1655798261558" duration="30000" />
+      <workItem from="1655798308206" duration="29000" />
     </task>
     <servers />
   </component>
